@@ -13,3 +13,6 @@ Make Coffee. a. If the transaction is successful and there are enough resources 
 # new line
 here I add a new line to 
 here I've added a second line 
+
+# new development
+1. Open index.html in your browser
